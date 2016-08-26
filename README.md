@@ -1,6 +1,6 @@
 # dollyreport
 
-DollReport is a library to simplify the call JasperReport reports. 
+DollyReport is a library to simplify the call JasperReport reports. 
 
 ###*Example*
 
